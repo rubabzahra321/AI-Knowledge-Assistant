@@ -478,36 +478,6 @@ This allows users to create a new knowledge base when needed.
 
 ---
 
-# 📸 Screenshots
-
-## Application Interface
-
-```markdown
-![Application Interface](screenshots/home.png)
-```
-
-## Document Upload
-
-```markdown
-![Document Upload](screenshots/upload.png)
-```
-
-## AI Question Answering
-
-```markdown
-![AI Response](screenshots/chat.png)
-```
-
-## Source References
-
-```markdown
-![Sources](screenshots/sources.png)
-```
-
-> Add your screenshots inside the `screenshots` folder with the same filenames.
-
----
-
 # 🎯 Project Purpose
 
 This project was developed as part of my learning journey in Artificial Intelligence and Generative AI.
